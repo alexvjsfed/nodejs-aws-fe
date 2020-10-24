@@ -1,6 +1,7 @@
 ## 2.1 Manual deployment
 
 S3 link (403): http://my-first-app1.s3-website.us-east-2.amazonaws.com/
+
 CloudFront URL (works): https://d1fpt1euamharp.cloudfront.net/
 
 
